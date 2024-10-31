@@ -1,0 +1,7 @@
+# Guessing on what not to track because not familiar with project files
+
+## AssetRipper
+valheim_rip/AssetRipper/**
+
+## Assets
+valheim_rip/Assets/**
